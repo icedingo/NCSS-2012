@@ -1,0 +1,4 @@
+parents(luke, padme, anakin).
+parents(leia, padme, anakin).
+?- parent(X, P) :- mother(X, P).
+another syntax error

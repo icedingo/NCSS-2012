@@ -1,0 +1,9 @@
+West|NNP|I-MISC Indian|NNP|I-MISC all-rounder|NN|O Phil|NNP|I-PER Simmons|NNP|I-PER
+took|VBD|O four|CD|O for|IN|O 38|CD|O on|IN|O Friday|NNP|O as|IN|O
+Leicestershire|NNP|I-ORG beat|VBD|O Somerset|NNP|I-ORG by|IN|O an|DT|O innings|NN|O
+and|CC|O 39|CD|O runs|NNS|O in|IN|O two|CD|O days|NNS|O to|TO|O take|VB|O over|IN|O
+at|IN|O the|DT|O head|NN|O of|IN|O the|DT|O county|NN|O championship|NN|O .|.|O
+I|NNP|O saw|VBZ|O Micky|NNP|I-PER Mouse|NNP|I-PER .|.|O
+the|DT|O French|NNP|I-MISC Roman|NNP|B-MISC Catholic|NNP|B-MISC organisation|NN|O Bran|N|B-LOLS Field|N|I-LOLS Of|N|I-NOT Haha|Poop|O Mystery|NUBS|I-NOT
+Bla|NNP|I-BLA bla2|NNPP|I-BLA
+a|NNP|I-A a|NNP|B-A b|NNP|I-A b|NNP|I-a c|NNP|B-X c|NNP|B-X
