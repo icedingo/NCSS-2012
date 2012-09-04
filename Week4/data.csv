@@ -1,0 +1,10 @@
+pet,children,income
+dog,yes,high
+cat,yes,high
+no,no,high
+dog,yes,low
+no,no,low
+dog,yes,med
+no,yes,high
+dog,yes,high
+cat,no,high

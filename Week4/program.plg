@@ -1,0 +1,19 @@
+parents(anakin, shmi, theforce).
+parents(sola, jobal, ruwee).
+parents(padme, jobal, ruwee).
+parents(luke, padme, anakin).
+parents(leia, padme, anakin).
+
+?- parents(sola, jobal, ruwee).
+?- parents(anakin, shmi, F).
+?- parents(X, padme, anakin).
+?- parents(padme, M, F).
+?- parents(C, X, X).
+
+aTest(a,  b,  b,  c ).
+?- aTest(A,B,B,C).
+?- aTest(A,B,C,D).
+?- aTest(D,C,B,A).
+?- aTest(C,B,B,A).
+?- aTest(A,b,B,C).
+?- invalid(a,b,c).
