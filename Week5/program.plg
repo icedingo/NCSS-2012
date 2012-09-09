@@ -1,0 +1,11 @@
+eat(lion, bob).
+eat(lion, dog).
+eat(dog, cat).
+eat(cat, bird).
+eat(bird, worm).
+eat(cake, worm).
+
+caneat(X,Y) :- eat(X, Y).
+caneat(X,Y) :- eat(X, B), caneat(B, Y).
+
+?- caneat(lion, worm).
